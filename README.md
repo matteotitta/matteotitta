@@ -24,4 +24,8 @@ I'm an AI-pilled GTM operator. I build AI GTM systems with Claude Code for B2B S
 ## Where I post
 YouTube [@genesysgrowth](https://youtube.com/@genesysgrowth) · X [@matteo_titta](https://x.com/matteo_titta) · LinkedIn [in/matteo-titta](https://linkedin.com/in/matteo-titta) · [genesysgrowth.com](https://genesysgrowth.com)
 
+## Latest on YouTube
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 _currently: shipping a new GTM skill every week._
