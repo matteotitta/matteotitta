@@ -1,3 +1,5 @@
+![matteotitta cover](.github/cover.png)
+
 # Matteo Titta
 
 ### Grow pipeline and brand authority at the speed of AI.
